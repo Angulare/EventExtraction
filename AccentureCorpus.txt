@@ -1,12 +1,76 @@
-SEOUL, South Korea, April 22, 2021 Klaytn, the public blockchain project of Korea's Internet giant, Kakao, has today announced that it is strategically partnering with ConsenSys, the leading Ethereum software company, to advance the Klaytn platform's integrated digital currency efforts. 
-Klaytn
-As part of this technological cooperation, Klaytn and ConsenSys will work to advance the performance of the Klaytn, an Ethereum-forked public network, and develop a private version of it with specific features including:
-Privacy to reflect the rising concern around data protection among financial institutions
-Scalability layer 2 solution to serve a large number of users without compromising speed
-Interoperability to bridge multiple blockchains
-These features will be crucial to optimize the CBDC platform that Klaytn is preparing to participate in the Bank of Korea pilot later this year. ConsenSys will architect a solution using its Enterprise Ethereum stack, including ConsenSys Codefi Asset, Codefi Payments, and MetaMask.
-"We are happy to cooperate with ConsenSys to strengthen our public network and also build a private network that can cater to a successful CBDC distribution test," said Jason Han, the CEO of Ground X. "We also look forward to improving the interoperability between Klaytn and Ethereum to allow digital assets to seamlessly flow across two chains," he added.
+Accenture plc is an Irish multinational company selling consulting and processing services. A Fortune Global 500 company,[4] it reported revenues of $44.33 billion in 2020 and had 537,000 employees. In 2015, the company had about 150,000 employees in India,[5] 48,000 in the US,[6] and 50,000 in the Philippines.[7] Accenture's current clients include 91 of the Fortune Global 100 and more than three-quarters of the Fortune Global 500.[8]
 
-"We are delighted to partner with Klaytn, a key player in the public blockchain ecosystem, to enhance the efficiency, security, and scalability and speed of its operations on the Ethereum network. Through this collaboration we will strengthen the efficacy of the Klaytn platform, readying it to process transactions which would conceptually support CBDCs, and also optimize it for Ethereum Layer 2 integration," said Charles d'Haussy, Managing Director, Asia Pacific at ConsenSys.
+On 11 July 2019, Accenture appointed Julie Sweet as its new chief executive officer. She accepted her office on 1 September 2019.[9]
 
-"At ConsenSys we are committed to advancing global CBDC efforts and have a strong track record in the space, assisting eight major central banks around the world with CBD pilots. As such, we have the unparalleled expertise and infrastructural tools required to build the network capabilities for the secure and efficient issuance of CBDCs," he continued.
+It has been incorporated in Dublin, Ireland since 2009.
+
+
+Split from Arthur Andersen
+In 1989, Arthur Andersen and Andersen Consulting became separate units of Andersen Worldwide Société Coopérative (AWSC). Throughout the 1990s, there was increasing tension between Andersen Consulting and Arthur Andersen. Andersen Consulting was paying Arthur Andersen up to 15% of its profits each year (a provision of the 1989 split was that the more profitable unit – whether AA or AC – pay the other the 15 percent), while at the same time Arthur Andersen was competing with Andersen Consulting through its own newly established business consulting service line called Arthur Andersen Business Consulting (AABC). This dispute came to a head in 1998 when Andersen Consulting put the 15% transfer payment for that year and future years into escrow and issued a claim for breach of contract against AWSC and Arthur Andersen. In August 2000, as a result of the conclusion of arbitration with the International Chamber of Commerce, Andersen Consulting broke all contractual ties with AWSC and Arthur Andersen. As part of the arbitration settlement, Andersen Consulting paid the sum held in escrow (then $1.2 billion) to Arthur Andersen, and was required to change its name, resulting in the entity being renamed Accenture.[14]
+
+Emergence of Accenture
+On 1 January 2001, Andersen Consulting adopted its current name, "Accenture". The word "Accenture" is derived from "Accent on the future". The name "Accenture" was submitted by Kim Petersen, a Danish employee from the company's Oslo, Norway office, as a result of an internal competition. Andersen felt that the name should represent its will to be a global consulting leader and high performer, and also intended that the name should not be offensive in any country in which Accenture operates.[15]
+
+
+Accenture's banner hanging on the New York Stock Exchange Building for its initial public offering on 19 July 2001.
+On 19 July 2001, Accenture's initial public offering (IPO) was priced at $14.50 per share, and the shares began trading on the New York Stock Exchange (NYSE); Goldman Sachs and Morgan Stanley served as its lead underwriters. Accenture stock closed the day at $15.17, with the day's high at $15.25. On the first day of the IPO, Accenture raised nearly $1.7 billion.[16]
+
+2000s: Bermuda headquarters
+In October 2002, the Congressional General Accounting Office (GAO) identified Accenture as one of four publicly traded federal contractors that were incorporated in a tax haven.[17] The other three, unlike Accenture, were incorporated in the United States before they re-incorporated in a tax haven, thereby lowering their US taxes. Critics, most notably former CNN journalist Lou Dobbs,[18] have reported Accenture's decision to incorporate in Bermuda as a US tax avoidance ploy, because they viewed Accenture as having been a US-based company.[19] The GAO itself did not characterize Accenture as having been a US-based company; it stated that "prior to incorporating in Bermuda, Accenture was operating as a series of related partnerships and corporations under the control of its partners through the mechanism of contracts with a Swiss coordinating entity."[20]
+
+Accenture engaged in an IT overhaul project for the British National Health Service (NHS) in 2003, making headlines when it withdrew from the contract in 2006 over disputes related to delays and cost overruns.[21] The government of the United Kingdom ultimately abandoned the project five years later for the same reasons.[22]
+
+
+Accenture office at Tech Square in Atlanta
+2010s: Ireland headquarters and recent history
+Accenture announced on 26 May 2009 that its board of directors unanimously approved changing the company's place of incorporation from Bermuda to Ireland and would become Accenture plc.[23]
+
+In 2012 it was revealed Accenture was paying only 3.5% in tax in the Republic of Ireland as opposed to the average rate of 24% for a UK corporation.[24]
+
+Accenture was chosen to replace CGI Group as the lead contractor for HealthCare.gov in January 2014.[25] In December 2014, Accenture won a $563 million contract to provide ongoing maintenance, software development and technology support for HealthCare.gov through 2019.[26]
+
+In July 2015, the United States Department of Defense awarded a major Electronic Health Records contract to Cerner, Leidos and Accenture. The contract valued $4.33 billion will serve 55 hospitals and 600 clinics. Accenture Federal Services and Leidos will play the role of configuration specialist, while Cerner is the prime contractor.[27]
+
+On 29 August 2017, Apple Inc. announced a partnership with Accenture to create iOS business software.[28]
+
+In June 2018, Accenture generated controversy over the amount the firm has been charging to recruit 7,500 Customs and Border Protection officers. Under the $297 million contract, Accenture had been charging the US Government nearly $40,000 per hire, which is more than the annual salary of the average officer.[29] According to a report published by the DHS Office of Inspector General in December 2018, Accenture had been paid $13.6M through the first ten months of the contract. They had hired two agents against a contract goal of 7,500 hires over 5 years. The report was issued as a 'management alert', indicating an issue requiring immediate attention, stating that "Accenture has already taken longer to deploy and delivered less capability than promised".[30] The contract was terminated in 2019.[31]
+
+In January 2019, CEO Pierre Nanterme stepped down from his position, citing health reasons. Twenty days after stepping down, he died in France at the age of 59 after being diagnosed with colon cancer. Chief Financial Officer David Rowland was named as the interim CEO.[32] In July 2019, Julie Sweet, previously CEO of Accenture North America, was named the new chief executive officer of the firm, effective September 2019.[33]
+
+In February 2019, contractors from Accenture's Austin, Texas location who performed content moderation tasks for Facebook wrote an open letter to Facebook describing poor working conditions and a "Big Brother environment" that included restricted work breaks and strict non-disclosure agreements.[34][35][36] A counselor in the Austin office stated that the content moderators could develop posttraumatic stress disorder as a result of the work, which included evaluating videos and images containing graphic violence, hate speech, animal abuse, and child abuse.[35][37] Accenture issued a statement saying the company offers opportunities for moderators to advance, increase their wages, and provide input "to help shape their experience".[38]
+
+On 7 January 2020, news sources reported that Accenture had agreed to acquire Symantec's 300-person cybersecurity services division from Broadcom.[39] The $200 million acquisition was completed in April 2020.[40]
+
+In February 2020, Accenture announced that it plans to shut down its media auditing by the end of August.[41] The company also announced the appointment of Jean-Marc Ollagnier as CEO for Europe.[42]
+
+In May 2020, Accenture announced that it had acquired Callisto Integration, a Canada-based provider of consulting and technology services[43] and Byte Prophecy, an Ahmedabad-based data analytics company.[44]
+
+In September 2020, Accenture committed $3 billion and created a division called Accenture Cloud First.[45][46]
+
+On 1 February 2021, Accenture acquired Imaginea Technologies, a cloud-native and agile development company. This acquisition also bolsters the Accenture Cloud First division.[47]
+
+On 16 February 2021, Accenture acquired Infinity Works. This acquisition also bolsters the Accenture Cloud First division.[48]
+
+Finances
+For the fiscal year 2019, Accenture reported earnings of US$6.305 billion, with an annual revenue of US$43.215 billion, an increase of 5.4% over the previous fiscal cycle. Accenture's shares traded at over $197 per share, and its market capitalization was valued at over US$125.1 billion in November 2019.[49]
+
+A worldmap showing the countries where Accenture has operations as of 2016
+
+Accenture office in ITPL, Bangalore
+Accenture Strategy provides business strategy, technology strategy and operations strategy services.[50]
+Accenture Consulting provides technology, business and management consulting.[51]
+Accenture Interactive (formerly Digital) provides digital marketing, analytics and mobility services.[52]
+Accenture Technology focuses on technology software, implementation, delivery, and research & development, including its Technology Labs for emerging technologies.[53]
+Accenture Operations focuses on an "as-a-service" model of service delivery. This includes business process outsourcing, IT services, cloud services, managed operations and security.[54]
+Marketing, branding and identity
+In 2011, Accenture launched a new campaign of results-based advertisements featuring clients such as Marriott, Unilever and the Royal Shakespeare Company alongside its slogan "High performance. Delivered".[55] As of 2019, Interbrand ranked Accenture No. 31 on its list of best global brands.[56] The brand consultancy noted Accenture's focus on branding and marketing of its Accenture Strategy, Accenture Consulting, Accenture Digital, Accenture Technology and Accenture Operations divisions.[57]
+
+From at least 2005[58] until December 2009, Accenture used Tiger Woods as a celebrity spokesperson and advertised using the service mark "Go on, be a Tiger" and the ancillary statement "We know what it takes to be a Tiger" in association with his image. On 13 December 2009 after details of Woods' extra-marital affairs were exposed, the company terminated Woods' six-year sponsorship deal.[59]
+
+The company uses a standardised system of branding, with extensive use of the font Graphik.[60]
+
+From 1999, the firm's culture was parodied by the webcomic Bigtime Consulting, operated pseudonymously by its San Francisco-based employee James Sanchez.[61][62]
+
+Accenture has implemented policies to reduce gendered discrimination such as gender neutral bathrooms and gender neutral dress-codes.[63]
+
+The Hertz Corporation sued Accenture in April 2019 over a contract where Accenture was hired to build a website and app for Hertz.[64] On 12 September, both parties appeared before the judge and provided oral arguments on the legitimacy of Hertz's complaint and Accenture's motion to dismiss.[65] In October 2019, a judge dismissed with prejudice Hertz's claim that Accenture violated Florida's Deceptive and Unfair Trade Practices Act.[66] The judge declined to determine at that time whether an agreement limits the damages available to Hertz for its breach of contract claim.[66]
