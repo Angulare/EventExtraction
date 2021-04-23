@@ -1,14 +1,10 @@
-SEOUL, South Korea, April 22, 2021 /PRNewswire/ -- Klaytn, the public blockchain project of Korea's Internet giant, Kakao, has today announced that it is strategically partnering with ConsenSys, the leading Ethereum software company, to advance the Klaytn platform's integrated digital currency efforts. 
-
+SEOUL, South Korea, April 22, 2021 Klaytn, the public blockchain project of Korea's Internet giant, Kakao, has today announced that it is strategically partnering with ConsenSys, the leading Ethereum software company, to advance the Klaytn platform's integrated digital currency efforts. 
 Klaytn
-
 As part of this technological cooperation, Klaytn and ConsenSys will work to advance the performance of the Klaytn, an Ethereum-forked public network, and develop a private version of it with specific features including:
-
 Privacy to reflect the rising concern around data protection among financial institutions
 Scalability layer 2 solution to serve a large number of users without compromising speed
 Interoperability to bridge multiple blockchains
 These features will be crucial to optimize the CBDC platform that Klaytn is preparing to participate in the Bank of Korea pilot later this year. ConsenSys will architect a solution using its Enterprise Ethereum stack, including ConsenSys Codefi Asset, Codefi Payments, and MetaMask.
-
 "We are happy to cooperate with ConsenSys to strengthen our public network and also build a private network that can cater to a successful CBDC distribution test," said Jason Han, the CEO of Ground X. "We also look forward to improving the interoperability between Klaytn and Ethereum to allow digital assets to seamlessly flow across two chains," he added.
 
 "We are delighted to partner with Klaytn, a key player in the public blockchain ecosystem, to enhance the efficiency, security, and scalability and speed of its operations on the Ethereum network. Through this collaboration we will strengthen the efficacy of the Klaytn platform, readying it to process transactions which would conceptually support CBDCs, and also optimize it for Ethereum Layer 2 integration," said Charles d'Haussy, Managing Director, Asia Pacific at ConsenSys.
