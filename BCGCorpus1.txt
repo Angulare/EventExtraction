@@ -1,0 +1,20 @@
+LTI awarded Snowflake Global Innovation Partner of the Year
+Mumbai (Maharashtra) [India], June 17 (ANI/PRNewswire): (https://www.lntinfotech.com) Larsen & Toubro Infotech (BSE: 540005) (NSE: LTI), a global technology consulting and digital solutions company has been recognized as the Global Innovation Partner of the Year by Snowflake, the Data Cloud Company. LTI received this prestigious recognition during Snowflake Virtual Partner Summit held on June 16, 2021.
+
+The award represents a key milestone for the strategic partnership between LTI and Snowflake and will strengthen collaboration between the companies to empower enterprises with innovative solutions and services.
+
+With its automation-first approach, LTI's unique (https://canvas.lntinfotech.com/lti-canvas-polarSled.html) Canvas PolarSled platform provides speed, performance, and risk reduction to Snowflake customers. The platform offers:
+
+Technology strategy and consulting to help define Snowflake migration and data strategy.
+
+Automation-led implementation toolkit powered by ML-based tools.
+
+Governance toolkit to help sustain and optimize Snowflake cloud data platform.
+
+Nachiket Deshpande, Chief Operating Officer, LTI, said, "This award validates LTI's strong commitment to simplifying and accelerating customer's journey to Snowflake. Our global strategic partnership with Snowflake enables us to bring the innovation needed to create data-driven organizations for customers. This alliance empowers us to become an integral part of an organization's broader data strategy and be the companion in its digital transformation journey."
+
+"As part of the global strategic partnership, LTI and Snowflake invest in helping our joint customers migrate to Snowflake Data Cloud by eliminating the technology debt, and providing assurance by achieving a higher level of automation," said Ketan Awalegaonkar, Chief Customer Officer at Snowflake. "LTI with its multiple innovative Snowflake specific accelerators & solutions, especially the LTI Canvas PolarSled platform, provides speed, performance, and risk reduction to the customers' cloud data journey. We look forward to strengthening this partnership and building innovative solutions for our customers together," he added.
+
+Recently, LTI also became the Technology Launch Partner for Snowpark Accelerated Program. Currently in private preview, Snowpark simplifies an organization's IT architecture by bringing more data pipelines into Snowflake's single, governed core data platform. As part of this program (https://mosaic.lntinfotech.com/mosaic-decisions) LTI Mosaic Decisions and (https://mosaic.lntinfotech.com/mosaic-ai) LTI Mosaic AI will facilitate easy adoption of Snowflake with optimized performance.
+
+LTI is an (https://www.lntinfotech.com/news-event/lti-becomes-the-elite-services-partner-of-snowflake) Elite Services Partner for (https://www.lntinfotech.com/enterprise-solutions/snowflake/snowcase-data-driven-manufacturing-transformation) Snowflake, and launched the first Snowcase, a program to develop and market industry-specific solutions to accelerate cloud data transformation journey of enterprises.
