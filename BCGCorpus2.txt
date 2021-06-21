@@ -37,3 +37,26 @@ Developers can get started with this new feature at https://roboflow.com/opencv-
 Luxonis CEO Brandon Gilles, said: “At Luxonis, we’re excited about the Roboflow platform as it allows our users to manage and understand their datasets plus re-train their models quickly and easily. And with Roboflow’s direct integration with the DepthAI OAK devices, these datasets and models can be field-refined and continuously improved over time. Coupled with Luxonis’ Spatial AI and CV ecosystem, this allows for low-risk product development and production-grade solutions.”
 
 Joseph Nelson, Roboflow CEO, said: “Luxonis is enabling a new wave of embedded computer vision capabilities. With Roboflow’s tools, users can collect data from their DepthAI OAK devices via API, annotate, and seamlessly train and deploy a model to their OAK. With the power of Roboflow and OAK, we’ve seen users build products from medical inventory scanners to ‘Roombas for dog poop.’ It’s a creative community of builders we’re excited to support.”
+
+Metromile and Hippo Insurance are partnering to offer home and auto insurance in a discounted bundled product.
+
+Drivers and homeowners will be able to purchase pay-per-mile auto insurance from Metromile and homeowners insurance from Hippo and save up to 15 percent on their auto and homeowners insurance policies when bundled, according to the firms. Through the partnership, customers will be able to benefit from the firms’ advanced smart devices and technology.
+
+
+Hippo, based in Palo Alto, is a digital managing general agency (MGA) focused on homeowners insurance and protection measures. Home maintenance is a cornerstone of Hippo’s platform that includes smart home devices, homeowner education and proactive alerts enabled by AI and data.
+
+Metromile is a San Francisco-based digital insurance platform and pay-per-mile auto insurer. Metromile’s auto insurance policies are priced and billed by the mile, which the insurer says saves customers, on average, 47% over what they were paying their previous auto insurer.
+
+Drivers and homeowners will be able to bundle Metromile auto insurance with Hippo homeowners insurance in Arizona, California, Illinois, New Jersey, Oregon, Pennsylvania, Virginia and Washington state once the partnership launches. The partnership plans to expand to additional states later this year.
+
+Metromile aims to have a 21-state footprint by end of 2021 and 49 states by end of 2022. Hippo currently sells in more than 30 states.
+
+Metromile became a public company in February 2021 through a reverse merger transaction. The company recently announced it would let customers use bitcoin to buy insurance or receive payments for insured claims.
+
+Hippo Enterprises announced in March that it, too, will go public through a merger with a blank-check firm, backed by Silicon Valley heavyweights Reid Hoffman and Mark Pincus, in a deal that gives the merged entity a pro forma enterprise value of $5 billion.
+
+Earlier this year, Hippo formed partnerships with Claimatic and Five Sigma focused on customer claims service. Last November, Hippo secured a $350 million capital investment from Mitsui Sumitomo Insurance Co. Hippo acquired home maintenance platform Sheltr in 2019, followed by the acquisition of property and casualty insurer Spinnaker Insurance Co. last year.
+
+“Offering choice and control are central to who we are and what drivers have come to expect from us,” Metromile Chief Executive Officer Dan Preston, said in prepared remarks.
+
+Hippo President Rick McCathron said the partnership will blend “the best of technology with top insurance coverages” to maximize customer experiences.
