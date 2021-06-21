@@ -1,0 +1,39 @@
+Bank of Ireland, AIB, Permanent TSB and KBC Ireland are planning to launch a mobile payments service known as Yippay “to rival disruptors such as Revolut”, according to the Irish Independent.
+
+Bank of Ireland logo
+The four banks filed an application with Ireland’s Competition and Consumer Protection Commission (CCPC) for a joint venture called Synch Payments to create the new service last month.
+
+The CCPC application states that Synch Payments will create “a new industry wide open payment service in the State that can be used, subject to the joint venture licensing terms, by all financial institutions (including consortia of smaller financial institutions) that issue euro-denominated IBANs to Irish customers”.
+
+The move follows “the rejection in January of an initial application by Synch Payments after it failed to provide the competition watchdog with sufficient information regarding the planned venture”, the Irish Independent says.
+
+“The competition watchdog is currently undertaking a phase one preliminary investigation into the planned venture.
+
+“The Yippay app is being developed to counter the major competitive threat faced by the traditional banks from digital operators such as Revolut and N26, which have built significant customer bases using slick apps.”
+
+Payments giant Mastercard is launching a new crypto rewards credit card this summer in partnership with cryptocurrency exchange Gemini, the two companies announced Tuesday. Mastercard will be the exclusive card network with Webbank as the bank issuing the card.
+Holders of the new credit card will earn up to 3% back on qualifying purchases in bitcoin or any of the more than 30 cryptocurrencies supported by the exchange. Cryptocurrency rewards will automatically be deposited into the cardholders’ accounts at the exchange. There is also no annual fee for the card.
+The project was introduced early this year and so far more than 140,000 people are on the waitlist. When launched, those who are on the waitlist will receive first access to apply for the card.
+
+The new credit card offers “real-time crypto rewards available in all 50 U.S. states and will be accepted wherever Mastercard is accepted,” the announcement details. It further emphasizes that unlike most cards, which pay rewards out monthly, holders of this credit card “will receive their crypto rewards as the transaction occurs for most of their purchases.”
+Mastercard has been working on several crypto projects. The company teamed up with Wirex and Bitpay last year and then joined forces with crypto exchange LVL this year. The payments giant announced in February that it will start supporting cryptocurrencies directly on its network.
+
+OpenCV, the world leader in Computer Vision, and Roboflow, an end-to-end computer vision developer platform, have launched the most streamlined deployment pipeline for OpenCV AI Kit (OAK).
+
+OAK, developed in partnership with Luxonis, is the world’s first spatial AI and CV camera and has a global user base of tens of thousands and a record-breaking $1.35M Kickstarter campaign.
+
+Roboflow’s new features allow developers to train, refine, and deploy models to OAK devices — without being machine learning experts or reinventing the wheel on machine learning operations. With this update, OAK moves to the head of the table alongside best-in-class Roboflow-supported deployment options like the NVIDIA Jetson.
+
+Developers are now able to train a custom model and deploy it via a Docker container directly to their OAK devices without wrestling with dependency issues or converting between model formats and intermediaries. This new functionality broadens the usability of artificial intelligence models and devices, making it easier than ever for developers to rapidly iterate and improve on their datasets and neural models.
+
+Satya Mallick, CEO of OpenCV said: “Our mission is to serve a large community of AI developers by creating performant hardware with easy to use developer tools. To bring the best to our community, we work with the best. That is why we have partnered with Roboflow and Luxonis to make the AI pipeline ridiculously simple for programmers with limited prior experience in AI.”
+
+Roboflow, an OpenCV Silver Partner, will continue to support the OAK ecosystem with exclusive Courses, blog posts, and other collaborations. Roboflow CEO Joseph Nelson recently appeared on the OpenCV Weekly Webinar discussing “Why Computer Vision Projects Fail” and engaging in a Q&A session with OpenCV community members in attendance.
+
+Existing owners and new purchasers of OpenCV AI Kit, including backers of last summer’s successful Kickstarter campaign, receive free training credit on the Roboflow platform, further showing Roboflow’s support for the global OpenCV community.
+
+Developers can get started with this new feature at https://roboflow.com/opencv-oak
+
+Luxonis CEO Brandon Gilles, said: “At Luxonis, we’re excited about the Roboflow platform as it allows our users to manage and understand their datasets plus re-train their models quickly and easily. And with Roboflow’s direct integration with the DepthAI OAK devices, these datasets and models can be field-refined and continuously improved over time. Coupled with Luxonis’ Spatial AI and CV ecosystem, this allows for low-risk product development and production-grade solutions.”
+
+Joseph Nelson, Roboflow CEO, said: “Luxonis is enabling a new wave of embedded computer vision capabilities. With Roboflow’s tools, users can collect data from their DepthAI OAK devices via API, annotate, and seamlessly train and deploy a model to their OAK. With the power of Roboflow and OAK, we’ve seen users build products from medical inventory scanners to ‘Roombas for dog poop.’ It’s a creative community of builders we’re excited to support.”
